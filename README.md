@@ -7,3 +7,5 @@ HEAD
 
 "Cambio hecho desde la rama conflicto" 
  rama-conflicto
+ 
+- Actualizacion realizada desde la copia local. 
